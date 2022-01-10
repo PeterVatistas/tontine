@@ -4,11 +4,8 @@ This is a basic Puppeteer script to log into user's tontine account then clicks 
 
 ## Installation
 
-Install Node.js
-
-Install Puppeteer to tontine directory.
 ```bash
-npm i puppeteer
+npm install
 ```
 
 ## Usage
