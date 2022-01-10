@@ -37,7 +37,7 @@ const puppeteer = require('puppeteer');
   // wait
   await page.waitForTimeout(12 * 1000);
 
-  // click login button
+  // click stay alive button
   await modal.$eval('div.container > div.modal > div.modal-inner > div.text-border.modal-border > button.btn.login-btn', el => el.click());
 
   // wait
