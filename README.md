@@ -4,15 +4,13 @@ This is a basic Puppeteer script to log into user's tontine account then clicks 
 
 ## Installation
 
-```bash
-npm install
-```
+Install Node.js, then clone this repo && `npm install` inside the tontine directory.
 
 ## Usage
 
-Enter email address on line 28.
+Enter tontine account email address on line 28.
 
-Enter password on line 35.
+Enter tontine account password on line 35.
 
 Run
 ```bash
