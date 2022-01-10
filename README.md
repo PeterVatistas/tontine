@@ -1,18 +1,30 @@
 # Tontine Stay Alive Script
 
-This script logs user into tontine account then clicks "stay alive" button.
+This is a basic Puppeteer script to log into user's tontine account then clicks "stay alive" button.
 
-## Deployment
+## Installation
 
 Install Node.js
-Install Puppeteer in the tontine directory with a `npm i puppeteer`.
 
-Enter email address on line 35.
-Enter password on line 41.
+Install Puppeteer to tontine directory.
+```bash
+npm i puppeteer
+```
 
-Run `node main.js`.
+## Usage
+
+Enter email address on line 28.
+
+Enter password on line 35.
+
+Run
+```bash
+node main.js
+```
 
 ## Recommended Use
 
-Setup a cron job (on a Raspberry Pi) to run `node main.js` daily.
-example run daily at 3am `0 3 * * * /usr/local/bin/node ../tontine/main.js`
+Setup a cron job to run `node main.js` daily.
+
+Example run daily at 3am 
+`0 3 * * * /usr/local/bin/node ../tontine/main.js`
