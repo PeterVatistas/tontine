@@ -1,6 +1,6 @@
 # MSCHF Tontine Stay Alive Script
 
-This is a basic Puppeteer script that logs a user into their own MSCHF Tontine account, then clicks the "stay alive" button.
+This is a basic Puppeteer script that logs a user into their own MSCHF Tontine.cash account, then clicks the "stay alive" button.
 
 The game itself is located at https://tontine.cash/
 
