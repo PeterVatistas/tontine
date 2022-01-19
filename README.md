@@ -6,18 +6,18 @@ The game itself is located at https://tontine.cash/
 
 ## Installation
 
-Install Node.js, then clone this repo && `npm install` inside the tontine directory.
+1. install Node.js https://nodejs.org/en/download/package-manager/
+2. clone this repo
+3. run ```cd tontine```
+4. run ```npm install```
 
 ## Usage
 
-Enter tontine account email address on line 28.
+Enter tontine account ```email address``` on line 28.
 
-Enter tontine account password on line 35.
+Enter tontine account ```password``` on line 35.
 
-Run
-```bash
-node main.js
-```
+Run ```node .```  OR ```node main.js```
 
 ## Recommended Use
 
