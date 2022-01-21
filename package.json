@@ -1,25 +1,5 @@
 {
-  "name": "tontine",
-  "version": "1.0.5",
-  "description": "tontine stay alive script",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PeterVatistas/tontine.git"
-  },
   "dependencies": {
     "puppeteer": "^13.0.1"
-  },
-  "keywords": [
-    "tontine"
-  ],
-  "author": "Peter Vatistas aka polybius",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PeterVatistas/tontine/issues"
-  },
-  "homepage": "https://github.com/PeterVatistas/tontine#readme",
+  }
 }
