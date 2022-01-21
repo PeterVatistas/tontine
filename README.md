@@ -25,3 +25,8 @@ Setup a cron job to run `node main.js` daily.
 
 Example run daily at 3am 
 `0 3 * * * /usr/local/bin/node ../tontine/main.js`
+
+## Trying to run on a Raspberry Pi?
+Install chromium and replace line 4 with the following:
+
+```const browser = await puppeteer.launch({ headless: "false", executablePath: 'chromium-browser' });```
