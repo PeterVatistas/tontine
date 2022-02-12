@@ -8,6 +8,76 @@ lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+Skip to content
+github
+/
+docs
+Public
+Code
+Issues
+100
+Pull requests
+30
+Discussions
+Actions
+Projects
+3
+Security
+Insights
+robcop.u/Paradice/bitore.sig)/tests/ci/tests/Travis.yml
+Azure - Deploy Preview Environment #119
+Build and deploy Azure preview environment
+cancelled 44 minutes ago in 45s
+6s
+Current runner version: '2.287.1'
+Operating System
+  Ubuntu
+  20.04.3
+  LTS
+Virtual Environment
+  Environment: ubuntu-20.04
+  Version: 20220207.1
+  Included Software: https://github.com/actions/virtual-environments/blob/ubuntu20/20220207.1/images/linux/Ubuntu2004-Readme.md
+  Image Release: https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220207.1
+Virtual Environment Provisioner
+  1.0.0.0-main-20220202-1
+GITHUB_TOKEN Permissions
+  Contents: read
+  Deployments: write
+  Metadata: read
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Getting action download info
+Download action repository 'azure/login@1f63701bf3e6892515f1b7ce2d2bf1708b46beaf' (SHA:1f63701bf3e6892515f1b7ce2d2bf1708b46beaf)
+Download action repository 'azure/docker-login@81744f9799e7eaa418697cb168452a2882ae844a' (SHA:81744f9799e7eaa418697cb168452a2882ae844a)
+Download action repository 'docker/setup-buildx-action@94ab11c41e45d028884a99163086648e898eed25' (SHA:94ab11c41e45d028884a99163086648e898eed25)
+Download action repository 'actions/checkout@1e204e9a9253d643386038d443f96446fa156a97' (SHA:1e204e9a9253d643386038d443f96446fa156a97)
+Download action repository 'actions/github-script@2b34a689ec86a68d8ab9478298f91d5401337b7d' (SHA:2b34a689ec86a68d8ab9478298f91d5401337b7d)
+Download action repository 'actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579' (SHA:ec3a7ce113134d7a93b817d10a8272cb61118579)
+Download action repository 'docker/build-push-action@7f9d37fa544684fb73bfe4835ed7214c255ce02b' (SHA:7f9d37fa544684fb73bfe4835ed7214c255ce02b)
+Download action repository 'azure/arm-deploy@841b12551939c88af8f6df767c24c38a5620fd0d' (SHA:841b12551939c88af8f6df767c24c38a5620fd0d)
+12s
+0s
+9s
+17s
+Error: We are currently unable to download the log. Please try again later.
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+0s
+1s
 
 # Runtime data
 pids
